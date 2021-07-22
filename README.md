@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Go & C++ & test
 - 💬 Ask me about any idea on C++
 - ⚡ Fun fact: a great C++ fan
+
+### recent reading 📕
+welcome a lot to discussion!
+
+*How Google Tests Software*
+*Modern Operating System*
