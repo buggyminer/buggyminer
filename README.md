@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 welcome a lot to discussion!
 
 *How Google Tests Software*
+
 *Modern Operating System*
+
+*Modern Cmake*
