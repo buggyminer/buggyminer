@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on interpreter & micro kernel
+- 🌱 I’m currently learning Go & C++ & test
+- 💬 Ask me about any idea on C++
+- ⚡ Fun fact: a great C++ fan
